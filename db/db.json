@@ -1,0 +1,405 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "user": {
+        "id": 101,
+        "username": "john_doe",
+        "profile_Pic": "src/assets/free-photo-of-kiss.jpeg"
+      },
+      "image": "src/assets/beach.jpg",
+      "caption": "Beautiful sunset #Nature",
+      "likes": 120,
+      "comments": [
+        {
+          "user": "alice_Wonder",
+          "comment": "Wow! Amazing shot!"
+        },
+        {
+          "user": "mark_92",
+          "comment": "Where is this place?"
+        }
+      ],
+      "timestamp": "2025-02-11T14:30:00Z"
+    },
+    {
+      "id": "2",
+      "user": {
+        "id": 102,
+        "username": "sarah_lee",
+        "profile_Pic": "src/assets/post 1.jpeg"
+      },
+      "image": "src/assets/post 1.jpeg",
+      "caption": "Coffee First #MondayMotivation",
+      "likes": 230,
+      "comments": [
+        {
+          "user": "john_doe",
+          "comment": "I need this coffee right now!"
+        }
+      ],
+      "timestamp": "2025-02-11T16:30:00Z"
+    },
+    {
+      "id": "3",
+      "user": {
+        "id": 103,
+        "username": "travel_with_anna",
+        "profile_Pic": "src/assets/free-photo-of-kiss.jpeg"
+      },
+      "image": "src/assets/free-photo-of-kiss.jpeg",
+      "caption": "Exploring the mountains",
+      "likes": 450,
+      "comments": [
+        {
+          "user": "mark_92",
+          "comment": "This looks like heaven"
+        },
+        {
+          "user": "sarah_lee",
+          "comment": "Amazing view!"
+        }
+      ],
+      "timestamp": "2025-02-11T18:30:00Z"
+    },
+    {
+      "id": "4",
+      "user": {
+        "id": 105,
+        "username": "john_doe",
+        "profile_Pic": "src/assets/free-photo-of-kiss.jpeg"
+      },
+      "image": "src/assets/beach.jpg",
+      "caption": "Beautiful sunset #Nature",
+      "likes": 120,
+      "comments": [
+        {
+          "user": "alice_Wonder",
+          "comment": "Wow! Amazing shot!"
+        },
+        {
+          "user": "mark_92",
+          "comment": "Where is this place?"
+        }
+      ],
+      "timestamp": "2025-02-11T20:30:00Z"
+    },
+    {
+      "id": "5",
+      "user": {
+        "id": 106,
+        "username": "sarah_lee",
+        "profile_Pic": "src/assets/post 1.jpeg"
+      },
+      "image": "src/assets/post 1.jpeg",
+      "caption": "Coffee First #MondayMotivation",
+      "likes": 230,
+      "comments": [
+        {
+          "user": "john_doe",
+          "comment": "I need this coffee right now!"
+        }
+      ],
+      "timestamp": "2025-02-11T16:30:00Z"
+    },
+    {
+      "id": "6",
+      "user": {
+        "id": 107,
+        "username": "travel_with_anna",
+        "profile_Pic": "src/assets/free-photo-of-kiss.jpeg"
+      },
+      "image": "src/assets/free-photo-of-kiss.jpeg",
+      "caption": "Exploring the mountains",
+      "likes": 450,
+      "comments": [
+        {
+          "user": "mark_92",
+          "comment": "This looks like heaven"
+        },
+        {
+          "user": "sarah_lee",
+          "comment": "Amazing view!"
+        }
+      ],
+      "timestamp": "2025-02-11T22:30:00Z"
+    },
+    {
+      "id": "7",
+      "user": {
+        "id": 108,
+        "username": "john_doe",
+        "profile_Pic": "src/assets/free-photo-of-kiss.jpeg"
+      },
+      "image": "src/assets/beach.jpg",
+      "caption": "Beautiful sunset #Nature",
+      "likes": 120,
+      "comments": [
+        {
+          "user": "alice_Wonder",
+          "comment": "Wow! Amazing shot!"
+        },
+        {
+          "user": "mark_92",
+          "comment": "Where is this place?"
+        }
+      ],
+      "timestamp": "2025-02-11T14:30:00Z"
+    },
+    {
+      "id": "8",
+      "user": {
+        "id": 109,
+        "username": "sarah_lee",
+        "profile_Pic": "src/assets/post 1.jpeg"
+      },
+      "image": "src/assets/post 1.jpeg",
+      "caption": "Coffee First #MondayMotivation",
+      "likes": 230,
+      "comments": [
+        {
+          "user": "john_doe",
+          "comment": "I need this coffee right now!"
+        }
+      ],
+      "timestamp": "2025-02-11T16:30:00Z"
+    },
+    {
+      "id": "9",
+      "user": {
+        "id": 110,
+        "username": "travel_with_anna",
+        "profile_Pic": "src/assets/free-photo-of-kiss.jpeg"
+      },
+      "image": "src/assets/free-photo-of-kiss.jpeg",
+      "caption": "Exploring the mountains",
+      "likes": 450,
+      "comments": [
+        {
+          "user": "mark_92",
+          "comment": "This looks like heaven"
+        },
+        {
+          "user": "sarah_lee",
+          "comment": "Amazing view!"
+        }
+      ],
+      "timestamp": "2025-02-11T18:30:00Z"
+    },
+    {
+      "id": "10",
+      "user": {
+        "id": 111,
+        "username": "john_doe",
+        "profile_Pic": "src/assets/free-photo-of-kiss.jpeg"
+      },
+      "image": "src/assets/beach.jpg",
+      "caption": "Beautiful sunset #Nature",
+      "likes": 120,
+      "comments": [
+        {
+          "user": "alice_Wonder",
+          "comment": "Wow! Amazing shot!"
+        },
+        {
+          "user": "mark_92",
+          "comment": "Where is this place?"
+        }
+      ],
+      "timestamp": "2025-02-11T20:30:00Z"
+    },
+    {
+      "id": "11",
+      "user": {
+        "id": 112,
+        "username": "sarah_lee",
+        "profile_Pic": "src/assets/post 1.jpeg"
+      },
+      "image": "src/assets/post 1.jpeg",
+      "caption": "Coffee First #MondayMotivation",
+      "likes": 230,
+      "comments": [
+        {
+          "user": "john_doe",
+          "comment": "I need this coffee right now!"
+        }
+      ],
+      "timestamp": "2025-02-11T16:30:00Z"
+    },
+    {
+      "id": "12",
+      "user": {
+        "id": 113,
+        "username": "travel_with_anna",
+        "profile_Pic": "src/assets/free-photo-of-kiss.jpeg"
+      },
+      "image": "src/assets/free-photo-of-kiss.jpeg",
+      "caption": "Exploring the mountains",
+      "likes": 450,
+      "comments": [
+        {
+          "user": "mark_92",
+          "comment": "This looks like heaven"
+        },
+        {
+          "user": "sarah_lee",
+          "comment": "Amazing view!"
+        }
+      ],
+      "timestamp": "2025-02-11T22:30:00Z"
+    }
+  ],
+  "profile": {
+    "id": 101,
+    "username": "im_yabi",
+    "profile_Pic": "src/assets/ST1.jpg"
+  },
+  "Suggestions": [
+    {
+      "id": "101",
+      "username": "john_doe",
+      "profile_Pic": "src/assets/free-photo-of-kiss.jpeg"
+    },
+    {
+      "id": "102",
+      "username": "sarah_lee",
+      "profile_Pic": "src/assets/post 1.jpeg"
+    },
+    {
+      "id": "103",
+      "username": "im_yabi",
+      "profile_Pic": "src/assets/free-photo-of-kiss.jpeg"
+    },
+    {
+      "id": "104",
+      "username": "john_doe",
+      "profile_Pic": "src/assets/free-photo-of-kiss.jpeg"
+    },
+    {
+      "id": "105",
+      "username": "sarah_lee",
+      "profile_Pic": "src/assets/post 1.jpeg"
+    },
+    {
+      "id": "106",
+      "username": "im_yabi",
+      "profile_Pic": "src/assets/free-photo-of-kiss.jpeg"
+    },
+    {
+      "id": "107",
+      "username": "john_doe",
+      "profile_Pic": "src/assets/free-photo-of-kiss.jpeg"
+    },
+    {
+      "id": "108",
+      "username": "sarah_lee",
+      "profile_Pic": "src/assets/post 1.jpeg"
+    },
+    {
+      "id": "109",
+      "username": "im_yabi",
+      "profile_Pic": "src/assets/free-photo-of-kiss.jpeg"
+    }
+  ],
+  "Story": [
+    {
+      "id": "1",
+      "user": {
+        "id": 101,
+        "username": "john_doe",
+        "profile_Pic": "src/assets/ST1.jpg"
+      },
+      "image": "src/assets/str1.jpg"
+    },
+    {
+      "id": "2",
+      "user": {
+        "id": 102,
+        "username": "sarah_lee",
+        "profile_Pic": "src/assets/ST1.jpg"
+      },
+      "image": "src/assets/str2.jpg"
+    },
+    {
+      "id": "3",
+      "user": {
+        "id": 103,
+        "username": "travel_with_anna",
+        "profile_Pic": "src/assets/ST1.jpg"
+      },
+      "image": "src/assets/str3.jpg"
+    },
+      {
+      "id": "4",
+      "user": {
+        "id": 104,
+        "username": "john_doe",
+        "profile_Pic": "src/assets/ST1.jpg"
+      },
+      "image": "src/assets/str1.jpg"
+    },
+    {
+      "id": "5",
+      "user": {
+        "id": 105,
+        "username": "sarah_lee",
+        "profile_Pic": "src/assets/ST1.jpg"
+      },
+      "image": "src/assets/str2.jpg"
+    },
+    {
+      "id": "6",
+      "user": {
+        "id": 106,
+        "username": "travel_with_anna",
+        "profile_Pic": "src/assets/ST1.jpg"
+      },
+      "image": "src/assets/str3.jpg"
+    },
+      {
+      "id": "7",
+      "user": {
+        "id": 107,
+        "username": "john_doe",
+        "profile_Pic": "src/assets/ST1.jpg"
+      },
+      "image": "src/assets/str1.jpg"
+    },
+    {
+      "id": "8",
+      "user": {
+        "id": 108,
+        "username": "sarah_lee",
+        "profile_Pic": "src/assets/ST1.jpg"
+      },
+      "image": "src/assets/str2.jpg"
+    },
+    {
+      "id": "9",
+      "user": {
+        "id": 109,
+        "username": "travel_with_anna",
+        "profile_Pic": "src/assets/ST1.jpg"
+      },
+      "image": "src/assets/str3.jpg"
+    }
+  
+  ],
+  "followers": [
+      {
+      "id": "101",
+      "username": "john_doe",
+      "profile_Pic": "src/assets/free-photo-of-kiss.jpeg"
+    },
+    {
+      "id": "102",
+      "username": "sarah_lee",
+      "profile_Pic": "src/assets/post 1.jpeg"
+    },
+    {
+      "id": "103",
+      "username": "im_yabi",
+      "profile_Pic": "src/assets/free-photo-of-kiss.jpeg"
+    }
+  ]
+}
